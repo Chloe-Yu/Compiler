@@ -1,0 +1,4 @@
+parser.exe生成AST
+error.exe产生报错信息并在部分位置打印符号表
+midcode.exe打印中间代码
+objcode.exe产生目标代码到文件objectcode.S
